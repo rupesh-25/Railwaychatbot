@@ -32,8 +32,8 @@ The backend of this application is implemented as a Flask API, responsible for h
 
 2. **Backend Customization**: Since our code has been removed from the Flask backend (`main.py`), you have the flexibility to tailor it to your specific requirements. Customize the backend logic to align with your desired functionality.
 
-## About the Developer
-Hi, I am Rupesh. I am a student pursuing education in Artificial Intelligence and Data Science. 
+## About the Developers
+Hi, I am Rupesh. I have developed this project along with my friend Suvam Kumar Verma. We both are students pursuing education in Artificial Intelligence and Data Science. 
 
 ---
 
