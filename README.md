@@ -33,11 +33,9 @@ The backend of this application is implemented as a Flask API, responsible for h
 2. **Backend Customization**: Since our code has been removed from the Flask backend (`main.py`), you have the flexibility to tailor it to your specific requirements. Customize the backend logic to align with your desired functionality.
 
 ## About the Developer
-Hi, I am Rupesh. I am a student pursuing education in Artificial Intelligence and Data Science. In case of any queries, feel free to contact me.
+Hi, I am Rupesh. I am a student pursuing education in Artificial Intelligence and Data Science. 
 
 ---
 
-Feel free to explore and contribute to this project, and don't hesitate to contact Rupesh Suryawanshi for any inquiries or collaboration opportunities.
-
-**Note:** The Railway Chat Bot App is designed to enhance the railway travel experience and provide valuable information to users. If you have any suggestions or feedback, please let us know. Your input is highly appreciated!
+Feel free to explore and don't hesitate to contact Rupesh Suryawanshi for any inquiries or collaboration opportunities.
 
