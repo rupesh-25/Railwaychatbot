@@ -16,7 +16,7 @@ This project leverages cutting-edge technologies to deliver a comprehensive rail
 
 Here's a simplified flowchart diagram to illustrate the inner workings of our Railway Chat Bot App:
 
-![Flowchart Diagram](/path/to/flowchart.png)
+![Flowchart Diagram](webappp/static/WhatsApp Image 2023-09-26 at 12.03.24 AM.jpeg)
 
 ## Components
 
